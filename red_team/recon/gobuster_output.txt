@@ -1,0 +1,7 @@
+/index               [32m (Status: 200)[0m [Size: 891]
+/test                [36m (Status: 301)[0m [Size: 314][34m [--> http://192.168.6.3/test/][0m
+/twiki               [36m (Status: 301)[0m [Size: 315][34m [--> http://192.168.6.3/twiki/][0m
+/tikiwiki            [36m (Status: 301)[0m [Size: 318][34m [--> http://192.168.6.3/tikiwiki/][0m
+/phpinfo             [32m (Status: 200)[0m [Size: 47963]
+/server-status       [33m (Status: 403)[0m [Size: 297]
+/phpMyAdmin          [36m (Status: 301)[0m [Size: 320][34m [--> http://192.168.6.3/phpMyAdmin/][0m
