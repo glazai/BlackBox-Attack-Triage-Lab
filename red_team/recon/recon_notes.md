@@ -26,7 +26,7 @@ Port	Service	Version	Notes
 1524	Backdoor Shell	netcat-like bind shell	Exploitable backdoor, port already open
 Others	RPC, VNC, PostgreSQL, IRC	Many additional legacy services detected for future recon
 
-Outline : The host is vulnerable to all sorts of attacks. There is minimal hardening. Services like FTP, HTTP and Tomcat present immediate redd team oportunities
+Outline: The host is vulnerable to all sorts of attacks. There is minimal hardening. Services like FTP, HTTP and Tomcat present immediate redd team oportunities
 
 Output saved to: nmap_scan.txt
 
